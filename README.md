@@ -1,15 +1,5 @@
-iso-work
-========
 
-Pisi Linux iso creation tools and files.
-
-The programs in the pisiman/required_packages.txt file must be installed on your system. For automatic installation and execution, simply run sh ./run.sh in the pisiman directory. 
-
-Note: the console requires sudo and a password for installation and running.
-
-Read pisiman/note file before running it.
-
-<hr>
+# İSO Work
 
 pisiman/required_packages.txt dosyasındaki programların sisteminizde kurulu olması gerekmektedir.
 
@@ -18,3 +8,36 @@ Otomatik kurulum ve çalıştırma için pisiman dizininde `sh ./run.sh` komutun
 Not: konsolda kurulum ve çalıştırma için sudo ile parola istenmektedir.  
 
 Çalıştırmadan önce pisiman/not dosyasını okuyun.
+
+
+
+## Ekran Görüntüleri
+
+![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+  # Çalışma Betiği/Mantığı
+
+Eski Pardus'ta olay biraz daha farklıydı Pisi Linux Çıktıktan Sonra Biraz değiştirildi 
+
+  
+## Belgelendirme / Documentation
+
+[Türkçe Belgelendirme](https://linktodocumentation)
+
+[English Documentation](https://linktodocumentation)
+
+
+  
+## Geri Bildirim
+
+Herhangi bir geri bildiriminiz varsa, Discord Üzerinden Ulaşabilirsiniz
+
+  
+## Sık Sorulan Sorular
+
+#### Kendi İsomu Yapmam Mümkün mü?
+
+Elbette Projeyi Eğer Kavradıysanız hemen bir adet Custom iso yapabilirsiniz
+
+
+  
