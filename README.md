@@ -13,7 +13,8 @@ Not: konsolda kurulum ve çalıştırma için sudo ile parola istenmektedir.
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Ekran Görüntüsü - 2023-05-17 19-52-24](https://github.com/ritimOS/iso-work/assets/110179578/62ed895b-04bd-46f7-be2f-4670a2350cd8)
+
 
   # Çalışma Betiği/Mantığı
 
